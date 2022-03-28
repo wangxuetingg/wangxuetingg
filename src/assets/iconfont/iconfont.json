@@ -1,0 +1,30 @@
+{
+  "id": "3270893",
+  "name": "优酷",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5037717",
+      "name": "下箭头",
+      "font_class": "xiajiantou",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "1308383",
+      "name": "200用户_用户",
+      "font_class": "200yonghu_yonghu",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "76992",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
